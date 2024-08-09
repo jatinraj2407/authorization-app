@@ -7,7 +7,9 @@ This Angular web application handles user authentication with a sign-in/log-in s
 ## Setup
 
 Prerequisites
+
 Node.js 14+
+
 Angular CLI 14+
 
 ## Installation
