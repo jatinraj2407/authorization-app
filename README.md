@@ -1,4 +1,4 @@
-#Authorization app
+# Authorization app
 
 Overview
 
@@ -12,7 +12,7 @@ Angular CLI 14+
 
 Installation
 
-Clone the repo: git clone https://github.com/yourusername/user-authentication-app.git
+Clone the repo: git clone (https ://github.com/yourusername/user-authentication-app.git)
 
 Navigate to the project folder: cd user-authentication-app
 
