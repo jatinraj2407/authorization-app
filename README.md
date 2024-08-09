@@ -4,9 +4,7 @@
 
 This Angular web application handles user authentication with a sign-in/log-in system, a multi-step signup process, and a dashboard that greets users with a "Hi" message.The project is designed with a modular architecture, strong typings, and interactive UI elements.
 
-## Setup
-
-Prerequisites
+## Setup (Prerequisites)
 
 Node.js 14+
 
@@ -25,5 +23,7 @@ Run the app: ng serve
 ## Features
 
 Authentication: Sign-in/log-in with validation.
+
 Signup: Multi-step form for new users.
+
 Dashboard: Displays a "Hi" greeting message.
